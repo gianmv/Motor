@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        //Este programa es bueno
         setContentView(R.layout.main);
         btnArriba= findViewById(R.id.btnArriba);
         btnAbajo= findViewById(R.id.btnAbajo);
